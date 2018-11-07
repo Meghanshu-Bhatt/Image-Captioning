@@ -1,4 +1,7 @@
 # Image-Captioning
+
+->Flicker 8k dataset
+
 Used Inceptionv3 model has encoder and used LSTM units layer has decoder
 
 References:
